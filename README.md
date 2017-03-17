@@ -1,5 +1,10 @@
 # Gastric_Cancer_survivalPred
-Survival predictor for gastric cancer. Built by shinyApp.
+Survival predictor for gastric cancer, a shiny app built in R.
 
-# How to run in RStudio
-runGitHub( "Gastric_Cancer_survivalPred", "yhyycj") 
+## Dependencies
+### R requires
+shiny
+
+## Download and local use using R code below
+`library(shiny)
+runGitHub( "Gastric_Cancer_survivalPred", "yhyycj")`
