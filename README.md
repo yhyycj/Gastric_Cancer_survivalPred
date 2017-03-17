@@ -9,5 +9,7 @@ Survival predictor for gastric cancer, a shiny app built in R.
 
 ### Download and local use
 Use the R code in below, a promp window should be shown on your screen. Click the pull-down menu to change the parameters, the predicted 3/5-year-survival rate will be shown on the right panel.
-```library(shiny)
-runGitHub( "Gastric_Cancer_survivalPred", "yhyycj")```
+```
+library(shiny)
+runGitHub( "Gastric_Cancer_survivalPred", "yhyycj")
+```
