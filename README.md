@@ -14,4 +14,4 @@ library(shiny)
 runGitHub( "Gastric_Cancer_survivalPred", "yhyycj")
 ```
 
-![]("https://github.com/yhyycj/Gastric_Cancer_survivalPred/blob/master/ui.png")
+![](https://github.com/yhyycj/Gastric_Cancer_survivalPred/blob/master/ui.png)
