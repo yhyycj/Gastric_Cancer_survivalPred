@@ -13,4 +13,4 @@ Use the R code in below, a promp window should be shown on your screen. Click th
 library(shiny)
 runGitHub( "Gastric_Cancer_survivalPred", "yhyycj")
 ```
-![]("https://github.com/yhyycj/Gastric_Cancer_survivalPred.git/ui.png")
+![]("https://github.com/yhyycj/Gastric_Cancer_survivalPred/blob/master/ui.png")
