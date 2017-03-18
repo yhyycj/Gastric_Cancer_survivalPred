@@ -14,4 +14,4 @@ library(shiny)
 runGitHub( "Gastric_Cancer_survivalPred", "yhyycj")
 ```
 Click the pull-down menu to change the parameters, the predicted 3/5-year-survival rate will be shown on the right panel.
-![](ui.png)
+![]("ui.png")
