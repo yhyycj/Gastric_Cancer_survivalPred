@@ -13,3 +13,4 @@ Use the R code in below, a promp window should be shown on your screen. Click th
 library(shiny)
 runGitHub( "Gastric_Cancer_survivalPred", "yhyycj")
 ```
+![]("ui.png")
