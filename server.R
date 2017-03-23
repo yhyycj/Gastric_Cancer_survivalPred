@@ -7,7 +7,7 @@ shinyServer(function(input, output, session){
   })
   
   predValues <- reactive({
-    surModel <- readRDS('predSurModel.rds')
+    surModel <- readRDS('model_10_scored_rcsSH.rds')
     surv <- Survival(surModel)
     data.frame(
         Duration = c('3 years', '5 years'),
